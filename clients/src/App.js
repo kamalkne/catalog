@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { getProductList } from "./services/api";
 
 import Header from './components/Header'
-import CatalogCard from './components/catalogCard'
+import CatalogCard from './components/CatalogCard'
 
 import './App.css';
 
